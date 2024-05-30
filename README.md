@@ -19,3 +19,12 @@ Hey everyone! Here is the latest update on the status of our MCPE cosmetics. Ple
 - **bastighg-500k-wings**
   - Creator: Enimba
   - Status: :white_check_mark: Working
+ 
+## Non-working Cosmetics
+- **dragon-mix**
+  - Creator: Enimba
+  - Status: :x: Not Working
+
+- **yinandyang-mix**
+  - Creator: Enimba
+  - Status: :x: Not Working
