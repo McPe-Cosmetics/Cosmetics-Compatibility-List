@@ -32,6 +32,10 @@ Hey everyone! Here is the latest update on the status of our MCPE cosmetics. Ple
   - Creator: Chukyo
   - Status: :white_check_mark: Working
 
+- **praayy-mix**
+  - Creator: Kromny
+  - Status: :white_check_mark: Working
+
 ## Non-working Cosmetics
 - **dragon-mix**
   - Creator: Enimba
