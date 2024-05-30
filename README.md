@@ -53,3 +53,14 @@ Hey everyone! Here is the latest update on the status of our MCPE cosmetics. Ple
 - **yinandyang-mix**
   - Creator: Enimba
   - Status: :x: Not Working
+
+- **1000user-mix**
+  - Creator: Enimba
+  - Status: :x: Not Working
+
+
+Thank you for staying updated with us. We are working hard to resolve the issues with the non-working cosmetics and will keep you posted on any progress. Have fun!
+
+---
+
+*McPe Cosmetics Team*
