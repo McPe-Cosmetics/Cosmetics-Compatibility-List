@@ -19,7 +19,15 @@ Hey everyone! Here is the latest update on the status of our MCPE cosmetics. Ple
 - **bastighg-500k-wings**
   - Creator: Enimba
   - Status: :white_check_mark: Working
- 
+
+- **devil-mix (work for slim)**
+  - Creator: Chukyo
+  - Status: :white_check_mark: Working
+
+- **black-mix**
+  - Creator: Kromny
+  - Status: :white_check_mark: Working
+
 ## Non-working Cosmetics
 - **dragon-mix**
   - Creator: Enimba
